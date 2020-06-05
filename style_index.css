@@ -1,0 +1,16 @@
+body {
+    background-color: darkblue;
+}
+
+.clickimage {
+    color: darkblue;
+    border: 10px solid darkblue;
+    text-align: center;
+    background-color: snow;
+}
+
+.box1 {
+    color: gold;
+    text-align: center;  
+}
+
